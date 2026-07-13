@@ -1,6 +1,6 @@
 # ismailGunaydn.github.io
 
-**Personal hub of İsmail Günaydın** — full-stack web engineer, SEO specialist, and founder of a 17-brand digital network. This repository powers [ismailgunaydn.github.io](https://ismailgunaydn.github.io/), the central index linking every GitHub Pages site, official channel, and brand under the network.
+**Personal hub of İsmail Günaydın** — full-stack web engineer, SEO specialist, and founder of a 20-brand digital network. This repository powers [ismailgunaydn.github.io](https://ismailgunaydn.github.io/), the central index linking every GitHub Pages site, official channel, and brand under the network.
 
 [![Website](https://img.shields.io/badge/Website-ismailgunaydin.com-0a66c2?style=flat-square)](https://www.ismailgunaydin.com/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-2ea44f?style=flat-square)](https://ismailgunaydn.github.io/)
@@ -25,7 +25,7 @@ The deployed hub is available at **<https://ismailgunaydn.github.io/>** and acts
 
 ---
 
-## 🧩 Brand Network (17 Digital Brands)
+## 🧩 Brand Network (20 Digital Brands)
 
 ### 🛠️ Tools & Calculators
 
