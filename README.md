@@ -1,6 +1,6 @@
 # ismailGunaydn.github.io
 
-**Personal hub of İsmail Günaydın** — full-stack web engineer, SEO specialist, and founder of a 21-brand digital network. This repository powers [ismailgunaydn.github.io](https://ismailgunaydn.github.io/), the central index linking every GitHub Pages site, official channel, and brand under the network.
+**Personal hub of İsmail Günaydın** — full-stack web engineer, SEO specialist, and founder of a 23-brand digital network. This repository powers [ismailgunaydn.github.io](https://ismailgunaydn.github.io/), the central index linking every GitHub Pages site, official channel, and brand under the network.
 
 [![Website](https://img.shields.io/badge/Website-ismailgunaydin.com-0a66c2?style=flat-square)](https://www.ismailgunaydin.com/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-2ea44f?style=flat-square)](https://ismailgunaydn.github.io/)
@@ -25,7 +25,7 @@ The deployed hub is available at **<https://ismailgunaydn.github.io/>** and acts
 
 ---
 
-## 🧩 Brand Network (21 Digital Brands)
+## 🧩 Brand Network (23 Digital Brands)
 
 ### 🛠️ Tools & Calculators
 
@@ -33,11 +33,11 @@ The deployed hub is available at **<https://ismailgunaydn.github.io/>** and acts
 |---|---|---|
 | HealthCalc Pro | <https://www.healthcalcpro.com> | [Pages](https://ismailgunaydn.github.io/HealthCalc-Pro/) |
 | HepsiHesapla | <https://www.hepsihesapla.com> | [Pages](https://ismailgunaydn.github.io/HepsiHesapla/) |
-| UnitConvertNow | <https://www.unitconvertnow.com> | — |
 | TextWordCount | <https://www.textwordcount.com> | [Pages](https://ismailgunaydn.github.io/TextWordCount/) |
 | ToolgenX | <https://www.toolgenx.com> | [Pages](https://ismailgunaydn.github.io/ToolgenX.github.io/) |
-| PixNPDF | <https://www.pixnpdf.com> | — |
-| WheelieNames | <https://www.wheelienames.com> | [Pages](https://ismailgunaydn.github.io/WheelieNames/) |
+| AgentSkillPacks | <https://www.agentskillpacks.com> | — |
+| WheelieNames | <https://www.wheelienames.com> | [Pages](https://ismailgunaydn.github.io/WheelieNames/) · [Pages 2](https://ismailgunaydn.github.io/Wheelie_Names/) |
+| AskedTheAI | <https://www.askedtheai.com> | [Pages](https://ismailgunaydn.github.io/askedtheai-ai-shopping-guide/) |
 
 ### 🏷️ Local Services & E-commerce
 
@@ -47,10 +47,10 @@ The deployed hub is available at **<https://ismailgunaydn.github.io/>** and acts
 | Işıklı Tabela | <https://www.isiklitabela.net> | [Pages](https://ismailgunaydn.github.io/isikli_tabela/) |
 | TabelaTR | <https://www.tabelatr.com> | [Pages](https://ismailgunaydn.github.io/TabelaTR/) |
 | Yılbaşı Işık Süsleme | <https://www.yilbasiisiksusleme.com> | [Pages](https://ismailgunaydn.github.io/Yilbasi-isikSusleme/) |
-| Luna Intim | <https://www.lunaintim.com> | — |
+| Luna Intim | <https://www.lunaintim.com> | [Pages](https://ismailgunaydn.github.io/lunaintim/) |
 | SaunaKabin | <https://www.saunakabin.com> | [Pages](https://ismailgunaydn.github.io/SaunaKabin/) |
 | Trio Lezzet | <https://www.triolezzet.com> | — |
-| Şahtur Nakliye | <https://www.sahturnakliye.com> | [Pages](https://github.com/ismailGunaydn/sahturnakliye) |
+| Şahtur Nakliye | <https://www.sahturnakliye.com> | [Pages](https://ismailgunaydn.github.io/sahturnakliye/) |
 | Nakliyat Hesapla | <https://www.nakliyathesapla.com> | [Pages](https://ismailgunaydn.github.io/nakliyathesapla/) |
 | Dış Mekan Süsleme | <https://www.dismekansusleme.com> | [Pages](https://ismailgunaydn.github.io/dismekansusleme/) |
 | Işıklı Süsleme | <https://www.isiklisusleme.com> | [Pages](https://ismailgunaydn.github.io/isiklisusleme/) |
@@ -60,10 +60,10 @@ The deployed hub is available at **<https://ismailgunaydn.github.io/>** and acts
 
 ### 🔍 SEO & Personal
 
-| Project | Live Site |
-|---|---|
-| Modern Web SEO | <https://www.modernwebseo.com> |
-| İsmail Günaydın (Personal) | <https://www.ismailgunaydin.com> |
+| Project | Live Site | GitHub Pages Mirror |
+|---|---|---|
+| Modern Web SEO | <https://www.modernwebseo.com> | [Pages](https://ismailgunaydn.github.io/ModernWebSEO/) |
+| İsmail Günaydın (Personal) | <https://www.ismailgunaydin.com> | [Hub](https://ismailgunaydn.github.io/) |
 
 ---
 
@@ -72,6 +72,7 @@ The deployed hub is available at **<https://ismailgunaydn.github.io/>** and acts
 ```
 ismailGunaydn.github.io/
 ├── index.html      # Hub landing page (deployed to GitHub Pages)
+├── sitemap.html    # Human-readable sitemap of every brand and Pages site
 └── README.md       # You are here
 ```
 
