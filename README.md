@@ -1,6 +1,6 @@
 # ismailGunaydn.github.io
 
-**Personal hub of İsmail Günaydın** — full-stack web engineer, SEO specialist, and founder of a 24-brand digital network. This repository powers [ismailgunaydn.github.io](https://ismailgunaydn.github.io/), the central index linking every GitHub Pages site, official channel, and brand under the network.
+**Personal hub of İsmail Günaydın** — full-stack web engineer, SEO specialist, and founder of a 23-brand digital network. This repository powers [ismailgunaydn.github.io](https://ismailgunaydn.github.io/), the central index linking every GitHub Pages site, official channel, and brand under the network.
 
 [![Website](https://img.shields.io/badge/Website-ismailgunaydin.com-0a66c2?style=flat-square)](https://www.ismailgunaydin.com/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-2ea44f?style=flat-square)](https://ismailgunaydn.github.io/)
@@ -25,7 +25,7 @@ The deployed hub is available at **<https://ismailgunaydn.github.io/>** and acts
 
 ---
 
-## 🧩 Brand Network (24 Digital Brands)
+## 🧩 Brand Network (23 Digital Brands)
 
 ### 🛠️ Tools & Calculators
 
@@ -46,7 +46,6 @@ The deployed hub is available at **<https://ismailgunaydn.github.io/>** and acts
 | A1 Organizasyon | <https://www.a1organizasyon.com> | [Pages](https://ismailgunaydn.github.io/A1-Organizasyon/) |
 | Işıklı Tabela | <https://www.isiklitabela.net> | [Pages](https://ismailgunaydn.github.io/isikli_tabela/) |
 | TabelaTR | <https://www.tabelatr.com> | [Pages](https://ismailgunaydn.github.io/TabelaTR/) |
-| Yılbaşı Işık Süsleme | <https://www.yilbasiisiksusleme.com> | [Pages](https://ismailgunaydn.github.io/Yilbasi-isikSusleme/) |
 | Luna Intim | <https://www.lunaintim.com> | [Pages](https://ismailgunaydn.github.io/lunaintim/) |
 | SaunaKabin | <https://www.saunakabin.com> | [Pages](https://ismailgunaydn.github.io/SaunaKabin/) |
 | Trio Lezzet | <https://www.triolezzet.com> | — |
