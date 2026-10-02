@@ -1,6 +1,6 @@
 # ismailGunaydn.github.io
 
-**Personal hub of İsmail Günaydın** — full-stack web engineer, SEO specialist, and founder of a 24-brand digital network. This repository powers [ismailgunaydn.github.io](https://ismailgunaydn.github.io/), the central index linking every GitHub Pages site, official channel, and brand under the network.
+**Personal hub of İsmail Günaydın** — full-stack web engineer, SEO specialist, and founder of a 23-brand digital network. This repository powers [ismailgunaydn.github.io](https://ismailgunaydn.github.io/), the central index linking every GitHub Pages site, official channel, and brand under the network.
 
 [![Website](https://img.shields.io/badge/Website-ismailgunaydin.com-0a66c2?style=flat-square)](https://www.ismailgunaydin.com/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-2ea44f?style=flat-square)](https://ismailgunaydn.github.io/)
@@ -25,7 +25,7 @@ The deployed hub is available at **<https://ismailgunaydn.github.io/>** and acts
 
 ---
 
-## 🧩 Brand Network (24 Digital Brands)
+## 🧩 Brand Network (23 Digital Brands)
 
 ### 🛠️ Tools & Calculators
 
@@ -34,8 +34,7 @@ The deployed hub is available at **<https://ismailgunaydn.github.io/>** and acts
 | HealthCalc Pro | <https://www.healthcalcpro.com> | [Pages](https://ismailgunaydn.github.io/HealthCalc-Pro/) |
 | HepsiHesapla | <https://www.hepsihesapla.com> | [Pages](https://ismailgunaydn.github.io/HepsiHesapla/) |
 | TextWordCount | <https://www.textwordcount.com> | [Pages](https://ismailgunaydn.github.io/TextWordCount/) |
-| ToolgenX | <https://www.toolgenx.com> | [Pages](https://ismailgunaydn.github.io/ToolgenX.github.io/) |
-| AgentSkillPacks | <https://www.agentskillpacks.com> | — |
+| AgentSkillPacks | <https://www.agentskillpacks.com> | [Pages](https://ismailgunaydn.github.io/ToolgenX.github.io/) |
 | WheelieNames | <https://www.wheelienames.com> | [Pages](https://ismailgunaydn.github.io/WheelieNames/) · [Pages 2](https://ismailgunaydn.github.io/Wheelie_Names/) |
 | AskedTheAI | <https://www.askedtheai.com> | [Pages](https://ismailgunaydn.github.io/askedtheai-ai-shopping-guide/) |
 
